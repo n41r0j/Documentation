@@ -10,14 +10,19 @@ This is the home of the Komodo Platform documentation. The Komodo Platform consi
 
 - The Komodo Blockchain (KMD)
 - Komodo Assetchains
-  - independent blockchains,
-  - with Crypto Conditions support, enabling Smart Contracts on every assetchain,
-  - created with just 1 line of code.
+ 
+  + independent blockchains,
+  + with Crypto Conditions support, enabling Smart Contracts on every assetchain,
+  + powerful through many adjustable blockchain parameters,
+  + created with just 1 line of code.
+
 - BarterDEX - The truly decentralized cryptocurrency exchange
-  - BarterDEX GUI - a reference GUI for trading on BarterDEX
-  - HyperDEX GUI - a third party GUI, easy to use
-  - Marketmaker - being a marketmaker / liquidity provider on the BarterDEX decentralized exchange
-- Agama Wallet
+ 
+  + BarterDEX GUI - a reference GUI for trading on BarterDEX
+  + HyperDEX GUI - a third party GUI, easy to use
+  + Marketmaker - being a marketmaker / liquidity provider on the BarterDEX decentralized exchange
+
+- Agama Wallet - all your coins and assetchains in one wallet
 - delayed Proof of Work, or dPoW, using yearly elected Notary Nodes
 - JUMBLR - a KMD anonymizer using zkSNARKS technology
 
