@@ -6,6 +6,21 @@
 Welcome to Komodo Platform's documentation!
 ===========================================
 
+This is the home of the Komodo Platform documentation. The Komodo Platform consists of:
+
+- The Komodo Blockchain (KMD)
+- Komodo Assetchains
+  - independent blockchains,
+  - with Crypto Conditions support, enabling Smart Contracts on every assetchain,
+  - created with just 1 line of code.
+- BarterDEX - The truly decentralized cryptocurrency exchange
+  - BarterDEX GUI - a reference GUI for trading on BarterDEX
+  - HyperDEX GUI - a third party GUI, easy to use
+  - Marketmaker - being a marketmaker / liquidity provider on the BarterDEX decentralized exchange
+- Agama Wallet
+- delayed Proof of Work, or dPoW, using yearly elected Notary Nodes
+- JUMBLR - a KMD anonymizer using zkSNARKS technology
+
 .. _developers:
 
 .. toctree::
@@ -87,7 +102,6 @@ Whitepaper
    general/using-Key-Value
    barterDEX/0conf-deposit-claim
    barterDEX/using-remote-narketmaker-binary-with-GUI
-   Beginner friendly BarterDEX documantation by jorian (Work in Progress) <https://barterdex.readthedocs.io/en/latest/>
 
 .. _notarynodes:
 
